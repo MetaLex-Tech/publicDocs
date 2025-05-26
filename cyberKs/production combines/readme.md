@@ -1,0 +1,1 @@
+This folder stores combinations of other templates that were deployed to prod--generally speaking when you open up a specific metalex app and see a document on the righthand side, it's a 'production combine' assembled from other templates. 
