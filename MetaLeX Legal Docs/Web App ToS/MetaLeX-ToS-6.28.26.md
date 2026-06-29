@@ -419,6 +419,6 @@ EXHIBIT B
 
 9. Security. We seek to use technical and organizational measures we consider reasonable to protect Personal Data. No method of transmission or storage is completely secure, and we do not warrant or guarantee the security of Personal Data; use of the Site is at your own risk as further described in the Terms.
 
-10. Children. The Site is not directed to, and may not be used by, anyone under 18. We do not knowingly Process the Personal Data of anyone under 18. If you believe a minor has provided Personal Data, contact legal@metalex.tech.
+10. Children. Use of the Site requires you to be at least eighteen years of age, as set out in Section 5.6. Consistent with the Children’s Online Privacy Protection Act (COPPA), the Site is not directed to children under 13, and we do not knowingly collect Personal Data from children under 13. If you believe a child under 13 has provided Personal Data, contact legal@metalex.tech and we will take steps to delete it.
 
 11. Changes. We may update this Privacy Notice from time to time as described in Section 8.5 of the Terms. The “Last Updated” date indicates when it was last revised.
